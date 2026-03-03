@@ -1,1 +1,1 @@
-![result img] (/result.png)
+<img src="./result.png" alt="result ss"/>
